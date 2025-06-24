@@ -3,12 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akhilxtech/akhilxtech/main/assets/dev-illustration.jpg" width="300" alt="Dev Illustration"/>
+  <img src=[7040859](https://github.com/user-attachments/assets/edabab99-7afa-4182-9ae6-79ad24f6cba3) width="300" alt="Dev Illustration"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me!
+
 
 - 🌱 I’m currently learning **React.js**, **Node.js**, and diving deeper into backend development
 - 💬 Ask me about **DSA**, **DBMS**, and **Full Stack Development**
