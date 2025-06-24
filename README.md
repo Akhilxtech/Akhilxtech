@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/edabab99-7afa-4182-9ae6-79ad24f6cba3" width="300" alt="Dev Illustration"/>
+  <img src="https://github.com/user-attachments/assets/324a8300-4b6b-4ba8-a2a4-066b209f09ee" width="300" alt="Dev Illustration"/>
 </p>
 
 ---
@@ -61,6 +61,7 @@
 </p>
 
 ---
+
 
 ### 🎯 Quote I Believe In
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
