@@ -4,9 +4,7 @@
 
 <table>
   <tr>
-    <td width="60%">
-
----
+    <td width="60%" valign="top">
 
 ### 👨‍💻 About Me!
 
@@ -27,7 +25,7 @@
 ---
 
 ### 🌐 Connect with me:
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/aakhiltiwari/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="linkedin" />
   </a>
@@ -45,7 +43,7 @@
 ---
 
 ### 🧰 Languages and Tools:
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
@@ -70,7 +68,6 @@
 
 ### 🎯 Quote I Believe In
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
-
 
 <!---
 Akhilxtech/Akhilxtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
