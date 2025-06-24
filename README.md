@@ -9,10 +9,12 @@
 ---
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/aakhiltiwari/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=flat-square)](https://www.instagram.com/theengineer.guy/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/_Akhil_tiwari/)
-[![GFG](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat-square)](https://www.geeksforgeeks.org/user/akhil_cs_2027/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/aakhiltiwari/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/theengineer.guy/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/_Akhil_tiwari/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/akhil_cs_2027/)
+
 
 ---
 
