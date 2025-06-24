@@ -10,26 +10,42 @@
 
 ### 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/aakhiltiwari/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/theengineer.guy/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/_Akhil_tiwari/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/akhil_cs_2027/)
+<h3>Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/aakhiltiwari/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" />
+  </a>
+  <a href="https://www.instagram.com/theengineer.guy/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram" width="30" />
+  </a>
+  <a href="https://leetcode.com/u/_Akhil_tiwari/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="30" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/akhil_cs_2027/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/geeksforgeeks.png" alt="geeksforgeeks" width="30" />
+  </a>
+</p>
+
 
 
 ---
 
 ### 🛠️ Languages and Tools:
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+<h3>Languages and Tools:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />
+</p>
+
 
 ---
 
