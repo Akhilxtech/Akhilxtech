@@ -32,7 +32,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhilxtech&show_icons=true&theme=radical)
 
 <!---
 Akhilxtech/Akhilxtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
