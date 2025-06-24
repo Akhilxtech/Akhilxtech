@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&width=435&lines=Hey..+%F0%9F%91%8B%2C+I'm+Akhil!;Passionate+Full+Stack+Developer;DSA+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&width=435&lines=Hey..+%F0%9F%91%8B%2C+I'm+Akhil!;Turning+ideas+into+code+daily;Building+cool+things+with+tech;Welcome+to+my+creative+space!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coder gif"/>
 </p>
 
 ---
@@ -11,11 +15,12 @@
 - 📢 Reach out at: [atakhil62003@gmail.com](mailto:atakhil62003@gmail.com)
 - 🧠 I enjoy teaching & helping peers with **DSA** daily
 - ⚡ Fun fact: I like solving real-world problems with clean code and a bit of caffeine ☕
+- 🛠️ Side Projects: Always building something new on weekends
 
 ---
 
 ### 🌐 Connect with me:
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/aakhiltiwari/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="linkedin" />
   </a>
@@ -33,7 +38,7 @@
 ---
 
 ### 🧰 Languages and Tools:
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
@@ -58,7 +63,6 @@
 
 ### 🎯 Quote I Believe In
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
-
 
 <!---
 Akhilxtech/Akhilxtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
