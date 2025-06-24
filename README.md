@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coder gif"/>
+  <img src="https://raw.githubusercontent.com/akhilxtech/akhilxtech/main/assets/dev-illustration.jpg" width="300" alt="Dev Illustration"/>
 </p>
 
 ---
