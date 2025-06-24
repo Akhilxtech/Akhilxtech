@@ -20,32 +20,20 @@
 ---
 
 ### 🌐 Connect with me:
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/in/aakhiltiwari/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" alt="linkedin" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.instagram.com/theengineer.guy/" target="_blank">
-          <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="38" alt="instagram" />
-        </a>
-      </td>
-      <td>
-        <a href="https://leetcode.com/u/_Akhil_tiwari/" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="38" alt="leetcode" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.geeksforgeeks.org/user/akhil_cs_2027/" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="38" alt="geeksforgeeks" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aakhiltiwari/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="linkedin" />
+  </a>
+  <a href="https://www.instagram.com/theengineer.guy/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="instagram" />
+  </a>
+  <a href="https://leetcode.com/u/_Akhil_tiwari/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="leetcode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/akhil_cs_2027/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" alt="geeksforgeeks" />
+  </a>
+</p>
 
 ---
 
