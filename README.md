@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&width=435&lines=Hey..+%F0%9F%91%8B%2C+I'm+Akhil!;Passionate+Full+Stack+Developer;DSA+Enthusiast+%26+Mentor;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&width=435&lines=Hey..+%F0%9F%91%8B%2C+I'm+Akhil!;Passionate+Full+Stack+Developer;DSA+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 ---
@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning **React.js**, **Node.js**, and diving deeper into backend development
 - 💬 Ask me about **DSA**, **DBMS**, and **Full Stack Development**
-- 📫 Reach out at: [atakhil62003@gmail.com](mailto:atakhil62003@gmail.com)
-- 🧠 I enjoy helping peers with **DSA** daily
+- 📢 Reach out at: [atakhil62003@gmail.com](mailto:atakhil62003@gmail.com)
+- 🧠 I enjoy teaching & helping peers with **DSA** daily
 - ⚡ Fun fact: I like solving real-world problems with clean code and a bit of caffeine ☕
 
 ---
@@ -52,14 +52,13 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akhilxtech&show_icons=true&theme=tokyonight" alt="Akhil's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilxtech&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🎯 Quote I Believe In
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
+
 
 <!---
 Akhilxtech/Akhilxtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
