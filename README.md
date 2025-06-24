@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **React.js**, **Node.js**, and diving deeper into backend development
 - 💬 Ask me about **DSA**, **DBMS**, and **Full Stack Development**
 - 📢 Reach out at: [atakhil62003@gmail.com](mailto:atakhil62003@gmail.com)
-- 🧠 I enjoy teaching & helping peers with **DSA** daily
+- 🧠 I enjoy helping peers with **DSA** daily
 - ⚡ Fun fact: I like solving real-world problems with clean code and a bit of caffeine ☕
 - 🛠️ Side Projects: Always building something new on weekends
 
